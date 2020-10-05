@@ -37,9 +37,9 @@
         tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.softmax)
         ])
 
-Тренировочные данные - 
+Тренировочные данные - коричневый
 
-Валидационные данные - 
+Валидационные данные - синий
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab1/Lab1/Graphics/NN-8-8-8-acc.png)
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab1/Lab1/Graphics/NN-8-8-8-loss.png)
