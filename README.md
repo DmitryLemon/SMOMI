@@ -15,6 +15,7 @@
         ])
 
 Тренировочные данные - серый
+
 Валидационные данные - оранжевый
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab1/Lab1/Graphics/NN-8-8-acc.png)
@@ -37,6 +38,7 @@
         ])
 
 Тренировочные данные - 
+
 Валидационные данные - 
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab1/Lab1/Graphics/NN-8-8-8-acc.png)
@@ -60,6 +62,7 @@
         ])
 
 Тренировочные данные - оранжевый
+
 Валидационные данные - синий
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab1/Lab1/Graphics/NN-8-16-16-acc.png)
@@ -86,6 +89,7 @@
         ])
 
 Тренировочные данные - синий
+
 Валидационные данные - розовый
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab1/Lab1/Graphics/NN-16-16-8-8-acc.png)
@@ -110,6 +114,7 @@
         ])
 
 Тренировочные данные - розовый
+
 Валидационные данные - зелёный
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab1/Lab1/Graphics/NN-16-16-32-32-acc.png)
