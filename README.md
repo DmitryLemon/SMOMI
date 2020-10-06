@@ -123,9 +123,3 @@
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-4-3-loss.png)
 
 
-Тренировочные данные:
-![Image alt]()
-![Image alt]()
-Валидационные данные:
-![Image alt]()
-![Image alt]()
