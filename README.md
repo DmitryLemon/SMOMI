@@ -5,30 +5,31 @@
 
 Попытка 1 - lr=0.000002
 
-Тренировочные данные:
-![Image alt]()
-![Image alt]()
-Валидационные данные:
-![Image alt]()
-![Image alt]()
+Тренировочные данные - зеленый
+
+Валидационные данные - 
+
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-1-1-acc.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-1-1-loss.png)
+
 
 Попытка 2 - lr=0.0003
 
-Тренировочные данные:
-![Image alt]()
-![Image alt]()
-Валидационные данные:
-![Image alt]()
-![Image alt]()
+Тренировочные данные - оранжевый
+
+Валидационные данные - синий
+
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-1-2-acc.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-1-2-loss.png)
 
 Попытка 3 - lr=0.000000025
 
-Тренировочные данные:
-![Image alt]()
-![Image alt]()
-Валидационные данные:
-![Image alt]()
-![Image alt]()
+Тренировочные данные - оранжевый
+
+Валидационные данные - синий
+
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-1-3-acc.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-1-3-loss.png)
 
 
 Нейронная сеть MobileNetV2 с весами imagenet и изменённым классификатором
