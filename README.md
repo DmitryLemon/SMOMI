@@ -40,7 +40,7 @@
 
 Валидационные данные - оранжевый
 
-![Image alt]('https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-2-1 acc.png')
+![Image alt]("https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-2-1 acc.png")
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-2-1 loss.png)
 
 Попытка 2 - lr=0.0045
