@@ -95,31 +95,28 @@
 
 Нейронная сеть MobileNetV2 с весами imagenet и обучением всей нейросети с предобученным классификатором
 
-Попытка 1 - lr=0.00000002
+Попытка 1 - lr=4e-10
 
-Тренировочные данные - розовый
+Тренировочные данные - синий
 
-Валидационные данные - зеленый
+Валидационные данные - 
 
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-4-1-acc.png)
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-4-1-loss.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-10-trbl.png)
 
-Попытка 2 - lr=0.000000000004
+Попытка 2 - lr=4e-12
 
-Тренировочные данные - оранжевый
+Тренировочные данные - синий
 
-Валидационные данные - синий
+Валидационные данные - оранжевый
 
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-4-2-acc.png)
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-4-2-loss.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-12-trbl.png)
 
-Попытка 3 - lr=0.0000000042
+Попытка 3 - lr=4e-14
 
-Тренировочные данные - розовый
+Тренировочные данные - синий
 
-Валидационные данные - зеленый
+Валидационные данные - 
 
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-4-3-acc.png)
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/Graphs/3-4-3-loss.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-14-trbl.png)
 
 
