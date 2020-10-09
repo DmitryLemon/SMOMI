@@ -99,7 +99,7 @@
 
 Тренировочные данные - синий
 
-Валидационные данные - 
+Валидационные данные - розовый
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-10-trbl.png)
 
@@ -107,16 +107,16 @@
 
 Тренировочные данные - синий
 
-Валидационные данные - оранжевый
+Валидационные данные - розовый
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-12-trbl.png)
 
 Попытка 3 - lr=4e-14
 
-Тренировочные данные - синий
+Тренировочные данные - розовый
 
-Валидационные данные - 
+Валидационные данные - зеленый
 
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-14-trbl.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/2e-14-trpnk.png)
 
 
