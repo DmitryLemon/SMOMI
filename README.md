@@ -12,6 +12,8 @@ Val-orange
 
 Random rotation
 
+30°
+
 Train-green
 
 Val-grey
@@ -19,6 +21,8 @@ Val-grey
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3/Graphs/try2%20(why)/4_2-1-acc.png)
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3/Graphs/try2%20(why)/4_2-1-loss.png)
+
+60°
 
 Train-blue
 
