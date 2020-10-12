@@ -95,15 +95,23 @@
 
 Нейронная сеть MobileNetV2 с весами imagenet и обучением всей нейросети с предобученным классификатором
 
-Попытка 1 - lr=4e-10
+Попытка 1 - lr=4e-8
 
-Тренировочные данные - синий
+Тренировочные данные - зелёный
 
 Валидационные данные - розовый
 
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-10-trbl.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-8-trbl.png)
 
-Попытка 2 - lr=4e-12
+Попытка 2 - lr=4e-9
+
+Тренировочные данные - зелёный
+
+Валидационные данные - розовый
+
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-8-trbl.png)
+
+Попытка 3 - lr=4e-12
 
 Тренировочные данные - синий
 
@@ -111,12 +119,5 @@
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-12-trbl.png)
 
-Попытка 3 - lr=4e-14
-
-Тренировочные данные - розовый
-
-Валидационные данные - зеленый
-
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/2e-14-trpnk.png)
 
 
