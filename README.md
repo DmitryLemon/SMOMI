@@ -103,13 +103,14 @@
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-8-trbl.png)
 
-Попытка 2 - lr=4e-9
+Попытка 2 - lr=4e-10
 
-Тренировочные данные - зелёный
+Тренировочные данные - серый
 
-Валидационные данные - розовый
+Валидационные данные - оранжевый
 
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-8-trbl.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-10-trgr-a.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab2/Lab2/3_4%20try/4.2e-10-trgr-l.png)
 
 Попытка 3 - lr=4e-12
 
