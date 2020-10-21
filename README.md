@@ -71,6 +71,18 @@ Train-pink
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_4-trpn.png)
 
+    noise_img = image + tf.random.normal(shape=tf.shape(image), mean=0.0, stddev=0.25, dtype=tf.float32)
+    
+Train-pink
+
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_4-25.png)
+
+    noise_img = image + tf.random.normal(shape=tf.shape(image), mean=0.0, stddev=0.25, dtype=tf.float32)
+    
+Train-pink
+
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_4-10.png)
+
 
 Optimal
 
@@ -81,9 +93,10 @@ Optimal
     image = tf.image.random_brightness(image, 0.5, seed=None)
     image = tf.image.random_contrast(image, 0.3, 1.7, seed=None)
     with tf.name_scope('Add_gaussian_noise'):
-        noise_img = image + tf.random.normal(shape=tf.shape(image), mean=0.0, stddev=1.0, dtype=tf.float32)
+        noise_img = image + tf.random.normal(shape=tf.shape(image), mean=0.0, stddev=0.25, dtype=tf.float32)
         noise_img = tf.clip_by_value(noise_img, -1.0, 1.0)
 
-Train-orange
+Train-blue, red
 
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_5-tror.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_5-1.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_5-2.png)
