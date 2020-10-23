@@ -96,7 +96,7 @@ Optimal
         noise_img = image + tf.random.normal(shape=tf.shape(image), mean=0.0, stddev=0.25, dtype=tf.float32)
         noise_img = tf.clip_by_value(noise_img, -1.0, 1.0)
 
-Train-blue, red
+Train-green, orange
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_5-1-new.png)
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_5-2-new.png)
