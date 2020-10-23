@@ -98,5 +98,5 @@ Optimal
 
 Train-blue, red
 
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_5-1.png)
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_5-2.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_5-1-new.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_5-2-new.png)
