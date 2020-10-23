@@ -15,7 +15,7 @@ Random rotation
     degrand = np.random.uniform(-degree, degree)
     image = tfa.image.rotate(image, np.pi * degrand / 180, interpolation='BILINEAR')
 
-Train-blue
+Train-blue, green
 
 
 ![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_2-15-trbl.png)
