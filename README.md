@@ -81,7 +81,7 @@ Train-red
     
 Train-blue
 
-![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_4-10.png)
+![Image alt](https://github.com/DmitryLemon/SMOMI/blob/lab3try2/Graphs/4_4-10-1.png)
 
 
 Optimal
@@ -92,7 +92,7 @@ Optimal
     image = tfa.image.rotate(image, np.pi * degrand / 180, interpolation='BILINEAR')
     image = tf.image.random_brightness(image, 0.5, seed=None)
     image = tf.image.random_contrast(image, 0.3, 1.7, seed=None)
-    noise_img = image + tf.random.normal(shape=tf.shape(image), mean=0.0, stddev=0.25, dtype=tf.float32)
+    noise_img = image + tf.random.normal(shape=tf.shape(image), mean=0.0, stddev=0.1, dtype=tf.float32)
     noise_img = tf.clip_by_value(noise_img, -1.0, 1.0)
 
 Train-green, orange
